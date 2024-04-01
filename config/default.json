@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://aggarwalchirag728:chiragaggarwal@cluster0.gzrcul4.mongodb.net/newDB",
+  "jwtSecret": "mysecrettoken",
+  "githubClientId": "7ad30cb0ea16f4e371c2",
+  "githubSecret": "4619c2972a48c7097f1a016d8eec48fa4b431c86"
+}

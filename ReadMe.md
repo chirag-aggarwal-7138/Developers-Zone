@@ -4,7 +4,7 @@ Their is a post section which allows to make a new post regarding any topic. Pos
 comments can also be added to individual post by any developer. Comments can also be deleted. MERN stack has been used for
 building this application.
 
-Use the following link to access the Web Application:
+Use the following link to access the Web Application: https://developer-zone.azurewebsites.net/
 
 ## Technologies Used - ReactJS, Redux, NodeJS, MongoDB Atlas
 
